@@ -8,3 +8,12 @@ curry
 
 
 chicken
+
+
+
+rasam
+
+
+curd
+
+
